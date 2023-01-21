@@ -31,7 +31,7 @@ $(function(){
         });
 
     peer = new Peer({
-        key: '1d5d1d52-6cf7-4856-bd11-7c2195dd96a3',
+        key: 'eaef9e8b-d312-4086-92ef-1a3f81ebe9fe',
         debug: 3
     });
 
